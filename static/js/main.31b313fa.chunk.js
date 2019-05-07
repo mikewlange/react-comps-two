@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var a=t(2),o=t.n(a),r=t(8),c=t.n(r),d=t(5),s=t(21),i=t(19),m=t(20),l=Object(d.a)();c.a.render(o.a.createElement(s.a,{history:l},o.a.createElement(i.a,null,o.a.createElement(m.a,{from:"/",to:"/admin/dashboard"}))),document.getElementById("root"))},9:function(e,n,t){e.exports=t(10)}},[[9,1,2]]]);
+//# sourceMappingURL=main.31b313fa.chunk.js.map
